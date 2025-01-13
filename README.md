@@ -1,3 +1,36 @@
+# Transforming Values with Pipes in Angular
+
+This project focuses on leveraging Angular pipes to transform and format data efficiently within templates. It covers both built-in and custom pipes, enabling the creation of clean, reusable, and maintainable code for displaying dynamic data in applications.
+
+### Key Features:
+
+- **Using Built-in Pipes**:
+  - Utilize Angular's built-in pipes for common tasks such as formatting dates, numbers, and currencies, or transforming text (e.g., uppercase, lowercase).
+  - Explore additional examples of built-in pipes to handle various use cases.
+
+- **Creating Custom Pipes**:
+  - Learn to build custom pipes for specific transformations, tailored to the needs of the application.
+  - Use custom pipes to apply advanced data manipulations directly within templates.
+
+- **Accepting Parameters in Custom Pipes**:
+  - Understand how to pass parameters to custom pipes for more flexible and dynamic transformations.
+
+- **Advanced Pipe Techniques**:
+  - Chain multiple pipes together to perform sequential transformations while understanding their limitations.
+  - Build a custom pipe that sorts items dynamically.
+
+- **Performance Optimization**:
+  - Differentiate between pure and impure pipes, and understand their impact on performance and change detection.
+  - Learn when and why not to use pipes in certain scenarios.
+
+By the end of this project, the application showcases enhanced data presentation using Angular pipes, ensuring improved readability and user experience through efficient value transformation and formatting.
+
+## Deployment
+
+The project is deployed and accessible online. You can view it at the following link:
+
+**[Deployed Site](https://pipes-angular-black.vercel.app)**
+
 # PipesDeepDive
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.0.
